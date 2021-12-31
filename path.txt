@@ -1,0 +1,2 @@
+C:\ProgramData\ssh
+C:\Users\Administrator\.ssh
